@@ -1,0 +1,9 @@
+{
+	"name": "beatbox-dynamic-server",
+	"version": "0.0.1",
+	"description": "embedded beatbox server for zencape controls",
+	"dependencies": {
+		"mime": "^1.2.11",
+		"socket.io": "~0.9.6"
+	}
+}
